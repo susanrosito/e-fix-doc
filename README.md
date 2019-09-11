@@ -6,5 +6,5 @@
 
 ## Ver la wiki de este repo para la documentación: https://github.com/CamilaSosa96/e-fix-doc/wiki
 
-Front-End: https://github.com/CamilaSosa96/e-fix-front
-Back-End: https://github.com/CamilaSosa96/e-fix-back
+## Front-End: https://github.com/CamilaSosa96/e-fix-front
+## Back-End: https://github.com/CamilaSosa96/e-fix-back
