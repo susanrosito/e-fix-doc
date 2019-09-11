@@ -8,3 +8,4 @@
 
 ## Front-End: https://github.com/CamilaSosa96/e-fix-front
 ## Back-End: https://github.com/CamilaSosa96/e-fix-back
+## Trello: https://trello.com/b/xYudk17j/e-fix
